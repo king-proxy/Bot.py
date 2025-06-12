@@ -12,7 +12,7 @@ import os
 import nest_asyncio
 import asyncio
 
-BOT_TOKEN = '8164823725:AAE1Cgrn1ByjmYT469XV7Jk76Pyzgv6bAqw'
+BOT_TOKEN = '8164823725:AAHo_8KEyk6Z_TqEFS0C-J_BkUPc9pvRny0'
 OWNER_ID = 7330902444
 PROXY_FILE = 'proxies.json'
 USERS_FILE = 'users.json'
