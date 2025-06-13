@@ -9,7 +9,6 @@ from telegram.ext import (
 )
 import json
 import os
-import nest_asyncio
 import asyncio
 
 BOT_TOKEN = '8164823725:AAHo_8KEyk6Z_TqEFS0C-J_BkUPc9pvRny0'
@@ -246,5 +245,4 @@ async def main():
 
 
 if __name__ == '__main__':
-    nest_asyncio.apply()
     asyncio.run(main())
