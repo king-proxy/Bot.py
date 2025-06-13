@@ -1,3 +1,2 @@
-# Bot.py
-python-telegram-bot==20.3
+python-telegram-bot==20.7
 nest_asyncio
